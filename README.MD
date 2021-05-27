@@ -9,4 +9,5 @@ The following repo was to test out a few concepts of pytorch lighthing, and run 
 # ToDO
 - [x] Image Classifier
 - [ ] Transfer Learning
-- [ ] Simple Text Classification
+- [x] Simple Text Classification
+- [x] Bert With Torch Lighthing
