@@ -8,6 +8,6 @@ The following repo was to test out a few concepts of pytorch lighthing, and run 
 
 # ToDO
 - [x] Image Classifier
-- [ ] Transfer Learning
+- [x] Transfer Learning
 - [x] Simple Text Classification
 - [x] Bert With Torch Lighthing
