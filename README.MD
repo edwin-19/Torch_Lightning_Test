@@ -11,3 +11,5 @@ The following repo was to test out a few concepts of pytorch lighthing, and run 
 - [x] Transfer Learning
 - [x] Simple Text Classification
 - [x] Bert With Torch Lighthing
+- [ ] Use datasets api from huggingface to process datasets
+- [ ] Use trainer class from huggingface to train model - Distilbert
