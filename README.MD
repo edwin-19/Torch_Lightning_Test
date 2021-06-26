@@ -11,5 +11,11 @@ The following repo was to test out a few concepts of pytorch lighthing, and run 
 - [x] Transfer Learning
 - [x] Simple Text Classification
 - [x] Bert With Torch Lighthing
-- [ ] Use datasets api from huggingface to process datasets
-- [ ] Use trainer class from huggingface to train model - Distilbert
+- [x] Use datasets api from huggingface to process datasets
+- [x] Use trainer class from huggingface to train model - Distilbert
+
+# Model Results Transformers
+| Model Name  | Accuracy |
+|-------------|----------|
+| Bert Base   | 0.884    |
+| Distil Bert | 0.96     |
