@@ -1,4 +1,5 @@
 data/
 data_text/
 lightning_logs/
+distil-classifier/
 .ipynb_checkpoints/
